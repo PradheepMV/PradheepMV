@@ -4,9 +4,16 @@ Hi, I’m @PradheepManimaran
 Frontend: Flutter
 Backend: Django
 Cloud: AWS and Azure
-👀 I’m interested in: Building scalable applications, cloud solutions, and innovative projects that solve real-world problems.
-🌱 I’m currently learning: Advanced cloud architectures, DevOps practices, generative AI, and building AI-driven applications.
-💞️ I’m looking to collaborate on: Open-source projects, cross-platform applications, and AI-powered solutions.
+
+👀 I’m interested in:
+Building scalable applications, cloud solutions, and innovative projects that solve real-world problems.
+
+🌱 I’m currently learning:
+Advanced cloud architectures, DevOps practices, generative AI, and building AI-driven applications.
+
+💞️ I’m looking to collaborate on:
+Open-source projects, cross-platform applications, and AI-powered solutions.
+
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love exploring new tech stacks and automating workflows!
 
