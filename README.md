@@ -14,8 +14,11 @@ Advanced cloud architectures, DevOps practices, generative AI, and building AI-d
 💞️ I’m looking to collaborate on:
 Open-source projects, cross-platform applications, and AI-powered solutions.
 
-😄 Pronouns: He/Him
-⚡ Fun fact: I love exploring new tech stacks and automating workflows!
+😄 Pronouns: 
+He/Him
+
+⚡ Fun fact: 
+I love exploring new tech stacks and automating workflows!
 
 
 
